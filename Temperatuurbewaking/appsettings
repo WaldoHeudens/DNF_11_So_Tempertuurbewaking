@@ -1,0 +1,12 @@
+{
+  "Melding": {
+    "Locatie": "Serverruimte",
+    "MaxTemperatuur": 25.0
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  }
+}
