@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Temperatuurbewaking.Tests/Temperatuurbewaking.Tests.csproj" />
+  <Project Path="Temperatuurbewaking/Temperatuurbewaking.csproj" />
+</Solution>
